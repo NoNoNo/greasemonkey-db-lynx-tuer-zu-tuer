@@ -4,8 +4,8 @@ Erweitert die Text-(›Lynx‹)-Fahrplanauskunft der Bahn ( http://reiseauskunft
 
 **Nachher:** Zusätzlich kann als Start- und Zielpunkt nun angegeben werden:
 
-* eine Hausadresse (›Tür-zu-Tür‹ im Format ›Straße Hausnummer, PLZ Ort‹)
-* einen Point-of-Interest (POI) wie z.B. Theater, Kirchen, öffentliche Einrichtungen etc.
+* eine **Hausadresse** (›Tür-zu-Tür‹ im Format ›Straße Hausnummer, PLZ Ort‹)
+* einen **Point-of-Interest** (POI) wie z.B. Theater, Kirchen, öffentliche Einrichtungen etc.
 
 Die Erkennung erfolgt automatisch.
 
